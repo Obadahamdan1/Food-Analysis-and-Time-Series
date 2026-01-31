@@ -27,4 +27,4 @@ This project addresses two distinct challenges in Machine Learning:
 **Forecasting:** Daily resampled sales data with Min-Max normalization.
 
 ## Report
-📄 See `Final_ML_Report.pdf` for the full technical write-up.
+📄 See `Report.pdf` for the full technical write-up.
